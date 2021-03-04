@@ -11,4 +11,4 @@
 - Programming languages (C#, Java)
 - Front End Web (HTML, CSS, Javascript)
 - Backend (PHP)
-- Additional technologies (Bootstrap, React.js)
+- Additional technologies/frameworks (Bootstrap, React.js)
