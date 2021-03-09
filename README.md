@@ -12,3 +12,8 @@
 - Front End Web (HTML, CSS, Javascript)
 - Backend (PHP)
 - Additional technologies/frameworks (Bootstrap, React.js)
+
+#### 2021 Plans:
+- Commit/review more in open source applications
+  - Runelite/Signal in specific
+- Begin coding my development portfolio at www.noahhaig.com
