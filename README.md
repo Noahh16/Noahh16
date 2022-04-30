@@ -16,4 +16,4 @@
 #### 2021 Plans:
 - Commit/review more in open source applications
   - Runelite/Signal in specific
-- Begin coding my development portfolio at www.noahhaig.com
+- Begin coding my development portfolio
